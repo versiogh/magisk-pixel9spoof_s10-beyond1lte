@@ -21,8 +21,7 @@ This Magisk module allows you to spoof a Pixel 9 Pro on a **Samsung Galaxy S10 E
 4. Reboot.
 
 **Tested On:**
-- LineageOS 16 (Android 16)  
-- crDroid 12.0 (based on LineageOS 16)
+- crDroid 12.0 (based on LineageOS 23 / Android 16)
 
 **Notes:**
 - Backup your device before flashing.  
