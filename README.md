@@ -31,3 +31,11 @@ This Magisk module allows you to spoof a Pixel 9 Pro on a **Samsung Galaxy S10 E
 
 **License:**
 This module is open-source under the MIT License. Feel free to fork, improve, or adapt it.
+
+## Example Output
+
+Here is an example of the spoofed properties observed via PowerShell on a Samsung Galaxy S10 Exynos (SM‑G973F beyond1lte):
+
+![Spoofed Properties Screenshot](https://zupimages.net/up/25/01/4wyu.png)
+
+As shown above, the module correctly applies Google Pixel 9 Pro identity and fingerprint values.
