@@ -5,7 +5,7 @@ This Magisk module allows you to spoof a Pixel 9 Pro on a **Samsung Galaxy S10 E
 
 **Key Features:**
 - Permanent early fix for `ro.build.display.id` to prevent ROM overwrites
-- Dynamic Pixel 9 Pro fingerprint generation
+- Fixed Pixel 9 Pro fingerprint with per-boot randomized build number
 - Full spoof of `ro.product.*` properties across all partitions
 - SoC spoof: Google Tensor G4 (non-critical, consistency only)
 - Clears Samsung/Knox flags (safe)
