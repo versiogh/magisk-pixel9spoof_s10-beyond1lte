@@ -38,3 +38,11 @@ Here is an example of the spoofed properties observed via PowerShell on a Samsun
 ![Spoofed Properties Screenshot](https://zupimages.net/up/25/01/4wyu.png)
 
 As shown above, the module correctly applies Google Pixel 9 Pro identity and fingerprint values.
+
+## Credits / Thanks
+
+- **crDroid Android** for providing a clean, stable and privacy-respecting ROM  
+  https://crdroid.net/beyond1lte/12
+
+- **Pedro Araujo**, maintainer of crDroid for Samsung Galaxy S10 Exynos (SM-G973F beyond1lte),  
+  for his continuous work and device support.
